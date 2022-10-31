@@ -2,6 +2,8 @@
 
 # Ta_lib
 
+**Emm..., not done yet.**
+
 *A dart version of [TA-Lib](https://ta-lib.org/).*
 
 **Important:** If you want to use the source code by yourself rather than download the latest release or install by pub directly, please consider to use the source code from [the main branch](https://github.com/JosephusZhou/ta_lib/tree/main), the develop branch is under development and I cannot guarantee it to be stable.
