@@ -1,7 +1,7 @@
 name: ta_lib
 description: A dart version of Ta-Lib.
 version: 0.0.1
-homepage: https://github.com/JosephusZhou
+homepage: https://github.com/JosephusZhou/ta_lib
 
 environment:
   sdk: '>=2.18.2 <3.0.0'

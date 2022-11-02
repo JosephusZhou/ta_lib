@@ -1,0 +1,4 @@
+enum Compatibility {
+  Default,
+  Metastock
+}

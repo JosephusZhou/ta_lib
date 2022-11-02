@@ -18,21 +18,21 @@ void calculateMA(List<double> dataList, int optInTimePeriod1, int optInTimePerio
   Core core = Core();
 
   RetCode retCode1 = core.sma(0, length - 1, dataList, optInTimePeriod1, outBegIdx, outNBElement, tempOutPut);
-  if (RetCode.success == retCode1) {
+  if (RetCode.Success == retCode1) {
     int lookback1 = core.smaLookback(optInTimePeriod1);
     print("lookback1: $lookback1,\nMa$optInTimePeriod1:\n$tempOutPut");
   }
 
   tempOutPut = List.filled(length, 0.0);
   RetCode retCode2 = core.sma(0, length - 1, dataList, optInTimePeriod2, outBegIdx, outNBElement, tempOutPut);
-  if (RetCode.success == retCode2) {
+  if (RetCode.Success == retCode2) {
     int lookback2 = core.smaLookback(optInTimePeriod2);
     print("lookback2: $lookback2,\nMa$optInTimePeriod2:\n$tempOutPut");
   }
 
   tempOutPut = List.filled(length, 0.0);
   RetCode retCode3 = core.sma(0, length - 1, dataList, optInTimePeriod3, outBegIdx, outNBElement, tempOutPut);
-  if (RetCode.success == retCode3) {
+  if (RetCode.Success == retCode3) {
     int lookback3 = core.smaLookback(optInTimePeriod3);
     print("lookback3: $lookback3,\nMa$optInTimePeriod3:\n$tempOutPut");
   }

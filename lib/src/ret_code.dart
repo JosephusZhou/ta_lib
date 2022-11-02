@@ -1,8 +1,8 @@
 enum RetCode {
-  success,
-  badParam,
-  outOfRangeStartIndex,
-  outOfRangeEndIndex,
-  allocErr,
-  internalError;
+  Success,
+  BadParam,
+  OutOfRangeStartIndex,
+  OutOfRangeEndIndex,
+  AllocErr,
+  InternalError
 }

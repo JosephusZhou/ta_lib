@@ -13,6 +13,12 @@
 
 include: package:lints/recommended.yaml
 
+# I don't think the damn dart grammar is good, for example:
+# "Enum values or constant names should use lowerCamelCase" is ridiculous.
+linter:
+  rules:
+    constant_identifier_names: false
+
 # Uncomment the following section to specify additional rules.
 
 # linter:
