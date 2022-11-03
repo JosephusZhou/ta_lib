@@ -13,15 +13,15 @@
 
 ## schedule
 
-- [x] AD                  Chaikin A/D Line
-- [x] ADOSC               Chaikin A/D Oscillator
+- [ ] AD                  Chaikin A/D Line
+- [ ] ADOSC               Chaikin A/D Oscillator
 - [x] ADX                 Average Directional Movement Index
 - [x] ADXR                Average Directional Movement Index Rating
-- [x] APO                 Absolute Price Oscillator
-- [x] AROON               Aroon
-- [x] AROONOSC            Aroon Oscillator
-- [x] ATR                 Average True Range
-- [x] AVGPRICE            Average Price
+- [ ] APO                 Absolute Price Oscillator
+- [ ] AROON               Aroon
+- [ ] AROONOSC            Aroon Oscillator
+- [ ] ATR                 Average True Range
+- [ ] AVGPRICE            Average Price
 - [ ] BBANDS              Bollinger Bands
 - [ ] BETA                Beta
 - [ ] BOP                 Balance Of Power
@@ -91,7 +91,7 @@
 - [ ] CORREL              Pearson's Correlation Coefficient (r)
 - [ ] DEMA                Double Exponential Moving Average
 - [ ] DX                  Directional Movement Index
-- [ ] EMA                 Exponential Moving Average
+- [x] EMA                 Exponential Moving Average
 - [ ] HT_DCPERIOD         Hilbert Transform - Dominant Cycle Period
 - [ ] HT_DCPHASE          Hilbert Transform - Dominant Cycle Phase
 - [ ] HT_PHASOR           Hilbert Transform - Phasor Components
@@ -111,29 +111,29 @@
 - [ ] MAX                 Highest value over a specified period
 - [ ] MAXINDEX            Index of highest value over a specified period
 - [ ] MEDPRICE            Median Price
-- [ ] MFI                 Money Flow Index
+- [x] MFI                 Money Flow Index
 - [ ] MIDPOINT            MidPoint over period
 - [ ] MIDPRICE            Midpoint Price over period
 - [ ] MIN                 Lowest value over a specified period
 - [ ] MININDEX            Index of lowest value over a specified period
-- [ ] MINMAX              Lowest and highest values over a specified period
+- [x] MINMAX              Lowest and highest values over a specified period
 - [ ] MINMAXINDEX         Indexes of lowest and highest values over a specified period
-- [ ] MINUS_DI            Minus Directional Indicator
+- [x] MINUS_DI            Minus Directional Indicator
 - [ ] MINUS_DM            Minus Directional Movement
 - [ ] MOM                 Momentum
 - [ ] NATR                Normalized Average True Range
 - [ ] OBV                 On Balance Volume
-- [ ] PLUS_DI             Plus Directional Indicator
+- [x] PLUS_DI             Plus Directional Indicator
 - [ ] PLUS_DM             Plus Directional Movement
 - [ ] PPO                 Percentage Price Oscillator
-- [ ] ROC                 Rate of change : ((price/prevPrice)-1)*100
+- [x] ROC                 Rate of change : ((price/prevPrice)-1)*100
 - [ ] ROCP                Rate of change Percentage: (price-prevPrice)/prevPrice
-- [ ] ROCR                Rate of change ratio: (price/prevPrice)
+- [x] ROCR                Rate of change ratio: (price/prevPrice)
 - [ ] ROCR100             Rate of change ratio 100 scale: (price/prevPrice)*100
-- [ ] RSI                 Relative Strength Index
+- [x] RSI                 Relative Strength Index
 - [ ] SAR                 Parabolic SAR
 - [ ] SAREXT              Parabolic SAR - Extended
-- [ ] SMA                 Simple Moving Average
+- [x] SMA                 Simple Moving Average
 - [ ] STDDEV              Standard Deviation
 - [ ] STOCH               Stochastic
 - [ ] STOCHF              Stochastic Fast
@@ -143,7 +143,7 @@
 - [ ] TEMA                Triple Exponential Moving Average
 - [ ] TRANGE              True Range
 - [ ] TRIMA               Triangular Moving Average
-- [ ] TRIX                1-day Rate-Of-Change (ROC) of a Triple Smooth EMA
+- [x] TRIX                1-day Rate-Of-Change (ROC) of a Triple Smooth EMA
 - [ ] TSF                 Time Series Forecast
 - [ ] TYPPRICE            Typical Price
 - [ ] ULTOSC              Ultimate Oscillator
